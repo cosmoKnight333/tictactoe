@@ -1,0 +1,11 @@
+TIC TAC TOE PROJECT
+● Given Below is the python code for the tic tac toe game
+● This game consists of two types of mode
+○ The single player mode(against the computer)
+○ The multiplayer mode (2 players)
+● The layout of the tic tac toe table has been made in the orthodox style
+,however for interaction, the player has to give an integer as an input which
+corresponds to the position where he wants to mark
+● While playing in single player mode the player will get two options,which are
+they can play as player 1 or as player two
+● After the code the output(from the terminal) is also given
